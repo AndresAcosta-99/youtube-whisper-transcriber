@@ -1,0 +1,6 @@
+FFmpeg
+yt-dlp
+openai-whisper
+torch 
+pandas 
+python-docx
